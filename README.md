@@ -2,7 +2,12 @@
 
 Code and data for "Evolution and Duration of Mars’ Hesperian Ocean in Utopia Planitia".
 
-# Requirements
+## Requirements
 Python 3.9
 
 Pytorch 1.8.0
+
+## Testing
+```
+python predict.py
+```
