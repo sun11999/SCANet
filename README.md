@@ -1,6 +1,6 @@
 # SCANet
 
-Code and data for "Evolution and Duration of Mars’ Hesperian Ocean in Utopia Planitia".
+Code and data for "Manganese (Hydr)Oxides Record the Dynamic Evolution of a Million-Year Hesperian Ocean in Utopia Planitia, Mars".
 
 ## System Requirements
 
